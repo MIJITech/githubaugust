@@ -10,6 +10,8 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
+   
+    
 }
 .container{
     width: 80%;
@@ -18,4 +20,9 @@ section{
     justify-content: center;
     align-items: center;
     font-size: 70px;
+    
+}
+img{
+    width: 100%;
+    height: 100vh;
 }
